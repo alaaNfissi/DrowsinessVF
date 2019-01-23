@@ -5,7 +5,7 @@
 https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat
 
 
-## Type these on Anaconada Prompt :
+## Type these commands on Anaconada Prompt :
 
 pip install --upgrade imutils
 
